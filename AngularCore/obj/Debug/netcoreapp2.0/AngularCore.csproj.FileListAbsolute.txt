@@ -1,0 +1,11 @@
+C:\Users\Adam\source\repos\AngularCore\AngularCore\bin\Debug\netcoreapp2.0\AngularCore.deps.json
+C:\Users\Adam\source\repos\AngularCore\AngularCore\bin\Debug\netcoreapp2.0\AngularCore.runtimeconfig.json
+C:\Users\Adam\source\repos\AngularCore\AngularCore\bin\Debug\netcoreapp2.0\AngularCore.runtimeconfig.dev.json
+C:\Users\Adam\source\repos\AngularCore\AngularCore\bin\Debug\netcoreapp2.0\AngularCore.dll
+C:\Users\Adam\source\repos\AngularCore\AngularCore\bin\Debug\netcoreapp2.0\AngularCore.pdb
+C:\Users\Adam\source\repos\AngularCore\AngularCore\obj\Debug\netcoreapp2.0\AngularCore.csprojAssemblyReference.cache
+C:\Users\Adam\source\repos\AngularCore\AngularCore\obj\Debug\netcoreapp2.0\AngularCore.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\AngularCore\AngularCore\obj\Debug\netcoreapp2.0\AngularCore.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\AngularCore\AngularCore\obj\Debug\netcoreapp2.0\AngularCore.AssemblyInfo.cs
+C:\Users\Adam\source\repos\AngularCore\AngularCore\obj\Debug\netcoreapp2.0\AngularCore.dll
+C:\Users\Adam\source\repos\AngularCore\AngularCore\obj\Debug\netcoreapp2.0\AngularCore.pdb
