@@ -59,7 +59,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "b0f3298a75087bf73dfe"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "50c3b88f68fcaab470be"; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
 /******/ 	var hotCurrentParents = []; // eslint-disable-line no-unused-vars
@@ -1589,6 +1589,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
+// Basic Bootstrap Modal Component
 
 var ModalComponent = (function () {
     function ModalComponent() {
@@ -2042,7 +2043,7 @@ module.exports = "<h1>Hello, world!</h1>\r\n<p>Welcome to your new single-page a
 /* 20 */
 /***/ (function(module, exports) {
 
-module.exports = "<!--<button class=\"button\" (click)=\"open()\">Open</button>-->\r\n<button type=\"button\" class=\"btn btn-info btn-lg\" data-toggle=\"modal\" data-target=\"#modalDialog\">Open</button>\r\n\r\n<div id=\"modalDialog\" class=\"modal\" tabindex=\"-1\" role=\"dialog\">\r\n    <div class=\"modal-dialog\">\r\n        <div class=\"modal-content\">\r\n            <div class=\"modal-header\">\r\n                <button type=\"button\" class=\"close\" aria-hidden=\"true\" data-dismiss=\"modal\">&times;</button>\r\n                <h4>Modal Dialog</h4>\r\n            </div>\r\n            <div class=\"modal-body\">\r\n                <p>Example</p>\r\n            </div>\r\n            <div class=\"modal-footer\">\r\n                <button class=\"btn btn-success\" data-dismiss=\"modal\">OK</button>\r\n                <button class=\"btn\" data-dismiss=\"modal\">Cancel</button>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>";
+module.exports = "<button type=\"button\" class=\"btn btn-info btn-lg\" data-toggle=\"modal\" data-target=\"#modalDialog\">Open</button>\r\n\r\n<div id=\"modalDialog\" class=\"modal\" tabindex=\"-1\" role=\"dialog\">\r\n    <div class=\"modal-dialog\">\r\n        <div class=\"modal-content\">\r\n            <div class=\"modal-header\">\r\n                <button type=\"button\" class=\"close\" aria-hidden=\"true\" data-dismiss=\"modal\">&times;</button>\r\n                <h4>Modal Dialog</h4>\r\n            </div>\r\n            <div class=\"modal-body\">\r\n                <p>Example</p>\r\n            </div>\r\n            <div class=\"modal-footer\">\r\n                <button class=\"btn btn-success\" data-dismiss=\"modal\">OK</button>\r\n                <button class=\"btn\" data-dismiss=\"modal\">Cancel</button>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</div>";
 
 /***/ }),
 /* 21 */

@@ -1,4 +1,5 @@
-import { Component, Input, SimpleChanges } from '@angular/core';
+// Basic Bootstrap Modal Component
+import { Component } from '@angular/core';
 
 @Component({
     selector: 'modal-custom',
